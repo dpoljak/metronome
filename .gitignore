@@ -1,8 +1,15 @@
 node_modules
-public/js
 out
 .shadow-cljs
 .nrepl-port
-.clj-kondo/.cache
 yarn-error.log
 report.html
+public/js/
+public/css/
+*.iml
+.cpcache
+.clj-kondo/cache/
+.clj-kondo/.cache/
+.lsp/sqlite.*.db
+.lsp/.cache
+.clj-kondo/.cache/
